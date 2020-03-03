@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Vodex",
+    "industry": "retail",
+    "logo": "images/vodex.png"
+  },
+  {
+    "name": "Beauty Cutie",
+    "industry": "beauty",
+    "logo": "images/beautycutie.png"
+  },
+
+  {
+    "name": "Dermanc",
+    "industry": "beauty",
+    "logo": "images/dermace.png"
+  },
+  {
+    "name": "Evans Electrical",
+    "industry": "retail",
+    "logo": "images/evans.png"
+  },
+
+  {
+    "name": "Beauty Works",
+    "industry": "beauty",
+    "logo": "images/beautyworks.png"
+  },
+  {
+    "name": "AMC",
+    "industry": "retail",
+    "logo": "images/amc.png"
+  },
+
+  {
+    "name": "Nadine Merabi",
+    "industry": "fashion",
+    "logo": "images/nadinemerabi.png"
+  },
+  {
+    "name": "Skins & Needles",
+    "industry": "fashion",
+    "logo": "images/skinsnneedles.png"
+  },
+  {
+    "name": "Aimees",
+    "industry": "beauty",
+    "logo": "images/aimees.png"
+  },
+  {
+    "name": "Boda Skins",
+    "industry": "fashion",
+    "logo": "images/bodaskins.png"
+  }
+]
